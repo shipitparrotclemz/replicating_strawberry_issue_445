@@ -1,0 +1,2 @@
+strawberry-graphql==0.158.0
+pytest==7.2.1
